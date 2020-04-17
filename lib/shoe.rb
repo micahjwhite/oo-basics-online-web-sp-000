@@ -11,6 +11,5 @@ class Shoe
   
 end
 
-my_shoe = Shoe.new
-my_show.condition = "new"
+
 
