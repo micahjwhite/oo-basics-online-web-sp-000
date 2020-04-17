@@ -9,6 +9,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  shoe.condition = "new"
-  
 end
+
+my_shoe = Shoe.new
+shoe.condition = new
