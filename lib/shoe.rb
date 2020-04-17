@@ -12,4 +12,4 @@ class Shoe
 end
 
 my_shoe = Shoe.new
-shoe.condition = new
+shoe.condition = "new"
